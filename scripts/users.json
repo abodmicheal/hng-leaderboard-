@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Austin Okocha",
+    "tracks": "Front End",
+    "group": "Eagle",
+    "points": "10"
+  } ,
+  {
+    "name": "Sunday Oliseh",
+    "tracks": "Back End",
+    "group": "Eagle",
+    "points": "9"
+  }
+,
+{
+  "name": "Roger Miller",
+  "tracks": "Front End",
+  "group": "Lions",
+  "points": "9"
+},
+{
+  "name": "Lucas Radebe",
+  "tracks": "Back End",
+  "group": "Tiger",
+  "points": "8"
+} ,
+{
+  "name": "Rabah Madger",
+  "tracks": "Design",
+  "group": "Fennecs",
+  "points": "7"
+}
+,
+{
+"name": "Kalusha Bwalya",
+"tracks": "Front End",
+"group": "Copper Bullets",
+"points": "6"
+} ,
+{
+  "name": "Jonathan Pitroipa",
+  "tracks": "Design",
+  "group": "Stallions",
+  "points": "5"
+} ,
+{
+  "name": "Jonson Okocha",
+  "tracks": "Front End",
+  "group": "Eagle",
+  "points": "4"
+}
+,
+{
+"name": " Jicheal owolabi",
+"tracks": "Design",
+"group": "Tiger",
+"points": "4"
+},
+{
+"name": "kennedy okoh",
+"tracks": "Front End",
+"group": "Eagle",
+"points": "2"
+}
+]
