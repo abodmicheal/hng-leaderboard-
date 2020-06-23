@@ -42,24 +42,5 @@
   "tracks": "Design",
   "group": "Stallions",
   "points": "5"
-} ,
-{
-  "name": "Jonson Okocha",
-  "tracks": "Front End",
-  "group": "Eagle",
-  "points": "4"
-}
-,
-{
-"name": " Jicheal owolabi",
-"tracks": "Design",
-"group": "Tiger",
-"points": "4"
-},
-{
-"name": "kennedy okoh",
-"tracks": "Front End",
-"group": "Eagle",
-"points": "2"
-}
+} 
 ]
